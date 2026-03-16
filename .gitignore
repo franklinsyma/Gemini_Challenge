@@ -64,3 +64,5 @@ agent/output/
 agent/.adk/
 *.log
 
+#opas envoyer la clé de compte
+geminichallenge-490421-c197867d7526.json
