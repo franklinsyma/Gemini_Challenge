@@ -6,6 +6,7 @@ from ag_ui_adk import ADKAgent, add_adk_fastapi_endpoint
 from google.adk.agents import LlmAgent, SequentialAgent, ParallelAgent
 from google.adk.tools import google_search
 from google.adk.artifacts import InMemoryArtifactService
+import asyncio
 
 # Imports locaux
 from instruction import (
