@@ -1,4 +1,4 @@
-# 🌍 Gemini Travel Concierge
+# 🌍 Guideo APP
 
 ![Gemini](https://img.shields.io/badge/Gemini%202.5-Pro%20%26%20Flash-blue?style=for-the-badge&logo=google)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Storage-4285F4?style=for-the-badge&logo=google-cloud)
@@ -6,8 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi)
 
 **The Artificial Intelligence that doesn't just plan your trip, but designs it.**
-
-Gemini Travel Concierge is an "Agentic UI" application developed for the Google AI Hackathon. It leverages the Google **ADK (Agent Development Kit)** to orchestrate a team of specialized AI agents capable of researching, illustrating, and formatting a bespoke, interactive travel magazine.
+Guideo is an "Agentic UI" application developed for the Google AI Hackathon. It leverages the Google **ADK (Agent Development Kit)** to orchestrate a team of specialized AI agents capable of researching, illustrating, and formatting a bespoke, interactive travel magazine.
 
 ---
 
